@@ -1,0 +1,19 @@
+@media(min-width:800px) {
+    h1::before{content: "Campeones de la Historia del Ajedrez";
+                    color: blue; font-size: 50px;}
+}
+@media(max-width:799px) {
+    h1::before{content: "Campeones del Ajedrez";
+                     color: crimson; font-size: 50px;}
+}    
+ 
+table {
+    border: 2px;border-style: solid;color: blue;
+}
+th,{border: 2px;border-style: solid; font-size: 30px; font-weigth: bold;
+    color: blue;
+    padding: 4 px; text-align: center; 
+}
+td{border: 1px;border-style: solid;color:blue;
+    padding: 4 px; text-align: center; 
+}
