@@ -1,0 +1,14 @@
+h1{color: blue; text-align: left;padding: 20px;}
+ul{color:rgb(99, 99, 207);text-align: left; font-size: 20px;}
+p{color: rgb(37, 37, 240);border:40px ;}
+div {font-size: 20px;}
+.inicio, .borde, ul {
+    font-family:  cursive;
+}
+.borde{border: ;
+         box-sizing: border-box; width: 50%;
+  }
+
+a::before{content: "\21d2 Ajedrez"; font-weight: bold;color: red;} 
+
+  

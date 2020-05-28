@@ -17,3 +17,6 @@ th,{border: 2px;border-style: solid; font-size: 30px; font-weigth: bold;
 td{border: 1px;border-style: solid;color:blue;
     padding: 4 px; text-align: center; 
 }
+
+a::before{content: "\21d2 "; font-weight: bold;color: rgb(247, 22, 22);} 
+
